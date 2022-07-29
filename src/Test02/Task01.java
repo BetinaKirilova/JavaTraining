@@ -1,7 +1,6 @@
 package Test02;
 
 import java.util.Scanner;
-
 public class Task01 {
 
     static boolean checkStrings(String str1, String str2) {
